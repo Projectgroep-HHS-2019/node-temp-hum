@@ -1,0 +1,17 @@
+{
+  "name": "temp-hum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^1.4.0",
+    "node-fetch": "^2.6.0",
+    "parser-readline": "^1.0.2",
+    "serialport": "^8.0.6"
+  }
+}
