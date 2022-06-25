@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "johnny-five": "^1.4.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "parser-readline": "^1.0.2",
     "serialport": "^8.0.6"
   }
